@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lucy!</string>
+    <string name="overlay_permission_title">다른 앱 위에 표시</string>
+    <string name="overlay_permission_body">홈 화면과 다른 앱 위에서 캐릭터가 돌아다니려면 권한이 필요해요.</string>
+    <string name="grant_overlay">권한 허용하기</string>
+    <string name="overlay_granted">권한 허용됨</string>
+    <string name="battery_title">배터리 최적화 제외</string>
+    <string name="battery_body">일부 기기에서 백그라운드 제한으로 펫이 멈출 수 있어요. 제외하면 더 안정적입니다.</string>
+    <string name="battery_grant">배터리 최적화 끄기</string>
+    <string name="battery_ok">배터리 최적화 제외됨</string>
+    <string name="start_pets">펫 출동!</string>
+    <string name="stop_pets">펫 숨기기</string>
+    <string name="apply_pets">선택 적용 (출동 중 변경)</string>
+    <string name="apply_done">캐릭터 구성을 바꿨어요</string>
+    <string name="notification_channel">루시 펫</string>
+    <string name="notification_title">루시가 화면을 돌아다니는 중</string>
+    <string name="notification_text">탭해서 설정으로 이동 · 알림에서 중지 가능</string>
+    <string name="edge_only_title">가장자리만 걷기</string>
+    <string name="edge_only_body">켜면 화면 테두리(상·하·좌·우)만 따라 걷고, 끄면 화면 전체를 자유롭게 돌아다녀요.</string>
+    <string name="pick_pets">출동할 친구 (4명)</string>
+    <string name="lockscreen_note">잠금 화면: Android가 잠금 중 앱 오버레이를 강제로 숨깁니다. 일반 앱으로는 잠금화면 위에 띄울 수 없고, 잠금 해제 후 다시 보입니다.</string>
+    <string name="fan_notice">비공식 팬 제작 · CYLU: 챠니·여비·워니·이리 · LUCY/권리자 캐릭터는 원작 권리를 존중합니다</string>
+</resources>

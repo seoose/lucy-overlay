@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pink_soft">#FFF3F0</color>
+    <color name="pink_accent">#F4A7B9</color>
+    <color name="pink_deep">#E07A92</color>
+    <color name="ink">#3A2E33</color>
+    <color name="cream">#FFF9F5</color>
+    <color name="white">#FFFFFF</color>
+</resources>
